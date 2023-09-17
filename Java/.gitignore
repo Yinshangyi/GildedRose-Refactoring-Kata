@@ -11,3 +11,6 @@ bin/
 .gradle
 /build/
 
+out/
+.editorconfig
+
