@@ -14,7 +14,6 @@ public class ItemFactory {
 
     public ItemFactory(Item item) {
         itemsMap.put(BRIE, new AgedBrie(item));
-        itemsMap.put(BRIE, new AgedBrie(item));
         itemsMap.put(BACKSTAGE_PASSES, new BackstagePasses(item));
         itemsMap.put(SULFURAS, new Sulfuras(item));
         itemsMap.put(CONJURED_ITEM, new ConjuredItem(item));
