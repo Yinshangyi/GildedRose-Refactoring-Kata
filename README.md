@@ -1,5 +1,7 @@
 # Gilded Rose Refactoring Kata
 
+![The_Gilded_Rose](https://github.com/Yinshangyi/GildedRose-Refactoring-Kata/assets/30729570/af9fae0d-71f3-40fc-a741-33eab88b3553)
+
 ## What is the Gilded Rose?
 The Gilded Rose is a fictional item management system for a magical inn, featuring a diverse inventory of items, each with its own set of rules for aging and value. The goal is to maintain and improve this system while accommodating new item types and ensuring that the existing ones behave correctly.
 
